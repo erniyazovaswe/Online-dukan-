@@ -5,3 +5,10 @@ h1{
     font-wight: 700;
     text-align: center;
 }
+
+p{
+    font-family:monospace;
+    font-size:22px;
+    font-wight:500;
+    
+}
